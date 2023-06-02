@@ -20,7 +20,7 @@
         "enabled": true
       },
       "conversation_transfer": {
-        "enabled": false,
+        "enabled": true,
         "cold_transfer": true,
         "multi_participant": true
       },
@@ -68,7 +68,7 @@
         "indicator_permanent": true
       },
       "activity_reservation_handler": {
-        "enabled": false,
+        "enabled": true,
         "system_activity_names": {
           "available": "Available",
           "onATask": "On a Task",
